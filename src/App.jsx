@@ -1,7 +1,7 @@
-import FormData from "./components/form-handler";
+import FormData from "./components/FormData";
 
 function App() {
-    return <Form />
+    return <FormData />
 };
 
 export default App
